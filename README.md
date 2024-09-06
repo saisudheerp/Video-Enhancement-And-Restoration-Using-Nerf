@@ -16,4 +16,4 @@ This project, titled "Video Enhancement and Restoration Using Neural Radiance Fi
 
 
 The dataset comprises custom datasets along with standard datasets such as NeRF-Synthetic, Blender Scenes, and LLFF. The custom datasets include frames extracted from static videos with varying complexities, covering a broad spectrum of real-world conditions. These datasets were preprocessed and used as input for the NeRF model. Experimental results demonstrate significant improvements in visual quality, noise reduction, and scene dynamics learning. Comparative analysis of PSNR values shows the model's effectiveness over existing NeRF-based models like NeRF, NeRF-Bi, NeRF-Liif, and NeRF-Swin. The project's success highlights the broad applicability of NeRF in various fields, including entertainment, surveillance, and augmented reality, emphasizing its potential impact on video processing.
-![output](1.jpg)
+![output](1.png)
