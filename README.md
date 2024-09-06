@@ -4,6 +4,8 @@ This project, titled "Video Enhancement and Restoration Using Neural Radiance Fi
 
 ## Approach
 
+![Appointment Scheduling](architecture.jpg)
+
 1. **Input Image**: Each frame in the video sequence is treated as an individual input image.
 2. **Estimating Camera Parameters**: Neural networks estimate intrinsic parameters like focal length and extrinsic parameters such as pose (position and orientation).
 3. **3D Point Sampling**: Samples 3D points in the scene based on the estimated camera parameters, representing locations in the 3D space corresponding to the input images.
